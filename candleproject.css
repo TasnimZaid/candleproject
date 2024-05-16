@@ -1,0 +1,26 @@
+
+.body{ 
+    height: 100hv;
+    background-color: rgba(193, 138, 62, 0.512);
+    background-color: rgba(190, 139, 139, 0.367);
+    background-size: cover;
+    backdrop-filter: blur(2px);
+    font-family: 'Courier New', Courier, monospace;
+}
+.background{
+    width: 100%;
+    height: 800px;
+    background-image: url(assets/128a040e5cd8fc1fc773dc4069410c66.jpg);
+    background-size: cover;
+    z-index: -1;
+}
+
+
+.navbar {
+    background-color: #dc35468f;
+}
+.nav-item{
+    padding: 10px;
+    margin-right: 40px;
+}
+
